@@ -1,0 +1,114 @@
+{
+  "languages": {
+    "fr": "Français",
+    "en": "English"
+  },
+  "navigation": {
+    "fr": ["Accueil", "À propos", "Mon travail", "Contact"],
+    "en": ["Home", "About", "My work", "Contact"]
+  },
+  "bio": {
+    "title": {
+      "fr": "Développeur Front-End",
+      "en": "Front-End Developper"
+    },
+    "content": {
+      "fr": "Bonjour ! Je suis un développeur web passionné par la création d'expériences numériques exceptionnelles. Mon portfolio met en avant mes compétences en conception web, développement front-end et intégration de fonctionnalités interactives. Explorez mes projets pour découvrir mon travail et n'hésitez pas à me contacter pour discuter de vos besoins en développement web !",
+      "en": "Hello ! I'm a web developer passionate about creating exceptional digital experiences. My portfolio showcases my skills in web design, front-end development, and integration of interactive features. Explore my projects to see my work and feel free to contact me to discuss your web development needs!"
+    }
+  },
+  "a-propos": {
+    "title": {
+      "fr": "À propos",
+      "en": "About me"
+    },
+    "content": {
+      "fr": [
+        "Depuis ma jeunesse, j'ai toujours été fasciné par l'informatique, jouant et explorant mon ordinateur, puis apprenant à coder. Cette passion m'a conduit à poursuivre des études en DUT Informatique, où j'ai pu consolider mon amour pour ce domaine. Mes études m'ont apporté une rigueur académique précieuse et m'ont préparé pour les défis à venir. J'ai ensuite eu l'opportunité de rejoindre l'école 42 au campus bruxellois, connu sous le nom de campus 19. Pour y être accepté, j'ai dû réussir l'examen d'entrée exigeant, surnommé 'la piscine'. Pendant un mois intensif, j'ai démontré ma détermination en codant quotidiennement en C et en Shell. Cette expérience m'a permis de développer une autonomie et une persévérance essentielles dans ce domaine. J'ai également acquis une compréhension approfondie des systèmes informatiques et de leur fonctionnement interne.",
+        
+        "Désireux de m'immerger rapidement dans le monde professionnel, j'ai choisi de suivre le parcours Intégrateur Web proposé par OpenClassrooms. Ce cursus m'a permis de renforcer mes compétences techniques en développement web front-end, notamment en HTML, CSS, JavaScript et React. Parallèlement, j'ai développé des compétences transversales comme la gestion de projets et l'optimisation SEO, ce qui m'a permis de constituer un solide bagage technique. Aujourd'hui, je suis prêt à entrer dans le monde professionnel en tant que développeur web. Je suis enthousiaste à l'idée de relever de nouveaux défis et de collaborer sur des projets innovants. Je suis impatient de découvrir les opportunités qui s'offriront à moi et de contribuer à des projets passionnants."
+      ],
+      "en": [
+        "Since my youth, I have always been fascinated by computers, playing and exploring my computer, and eventually learning to code. This passion led me to pursue studies in Computer Science, where I solidified my love for this field. My studies provided me with valuable academic rigor and prepared me for future challenges. I then had the opportunity to join the 42 school at the Brussels campus, known as campus 19. To be accepted, I had to pass the demanding entrance exam called 'the piscine'. During an intensive month, I demonstrated my determination by coding daily in C and Shell. This experience allowed me to develop essential autonomy and perseverance in this field. I also gained a deep understanding of computer systems and their inner workings.",
+        
+        "Eager to quickly immerse myself in the professional world, I chose to follow the Web Integrator course offered by OpenClassrooms. This program allowed me to strengthen my technical skills in front-end web development, including HTML, CSS, JavaScript, and React. At the same time, I developed transversal skills such as project management and SEO optimization, which enabled me to build a solid technical foundation. Today, I am ready to enter the professional world as a web developer. I am enthusiastic about taking on new challenges and collaborating on innovative projects. I look forward to discovering the opportunities that lie ahead and contributing to exciting projects."
+      ]
+    }
+  },
+  "mon-travail": {
+    "title": {
+      "fr": "Mon travail",
+      "en": "My work"
+    },
+    "mes-competences": {
+      "title": {
+        "fr": "Mes compétences",
+        "en": "My skills"
+      }
+    },
+    "mes-projets": {
+      "title": {
+        "fr": "Mes projets",
+        "en": "My projects"
+      },
+      "projets": [
+        {
+          "fr": {
+            "title": "Kasa",
+            "subtitle": "Location d'appartements entre particuliers",
+            "text": "Ce projet a été codé en React et permet à l'utilisateur de voir tous les logements disponibles. En utilisant la data, le site affiche tous les logements dans une grille, et chaque logement a une page avec son id. Sur la page d'un logement toutes les informations sur ce dernier sont retrouvés, notes, description, équipements, etc."
+          },
+          "en": {
+            "title": "Kasa",
+            "subtitle": "Apartment Rental Between Individuals",
+            "text": "This project was coded in React and allows the user to view all available accommodations. Using the data, the site displays all accommodations in a grid, and each accommodation has a page with its ID. On the accommodation page, all information about it is found, such as ratings, description, amenities, etc."
+          },
+          "github": "https://github.com/YanisMhl/Kasa",
+          "skills": ["HTML", "SASS", "JAVASCRIPT", "REACT"]
+        },
+        {
+          "fr": {
+            "title": "Sophie Bluel",
+            "subtitle": "Portfolio d'architecte d'intérieur",
+            "text": "Ce portfolio est un projet fait en React et connecté à une base de données. En utilisant les différents endpoints de l'API, le site permet à l'utilisateur de se connecter et de se déconnecter, mais aussi de publier ou de supprimer des travaux avec un formulaire. Ces derniers s'afficheront dans la galerie."
+          },
+          "en": {
+            "title": "Sophie Bluel",
+            "subtitle": "Interior Designer Portfolio",
+            "text": "This portfolio is a project made with React and connected to a database. Using the different API endpoints, the site allows the user to log in and log out, as well as to publish or delete works using a form. These works will be displayed in the gallery."
+          },
+          "github": "https://github.com/YanisMhl/Portfolio-architecte-sophie-bluel",
+          "skills": ["HTML", "CSS", "JAVASCRIPT"]
+        },
+        {
+          "fr": {
+            "title": "OhMyFood",
+            "subtitle": "Site de restaurants gastronomiques",
+            "text": "Ce site répertorie plusieurs restaurants gastronomiques avec leurs différents menus. Il a été fait en html et en sass, avec de nombreuses animations dont un loader."
+          },
+          "en": {
+            "title": "OhMyFood",
+            "subtitle": "Gourmet Restaurants Website",
+            "text": "This website lists several gourmet restaurants with their different menus. It was made in HTML and SASS, with numerous animations including a loader."
+          },
+          "github": "https://github.com/YanisMhl/OhMyFood",
+          "skills": ["HTML", "SASS"]
+        },
+        {
+          "fr": {
+            "title": "Booki",
+            "subtitle": "Agence de voyage",
+            "text": "Ce site répertorie différents hôtels, hébergements ou activités pour l'utilisateur. Il m'a permit de prendre en main l'HTML et le CSS."
+          },
+          "en": {
+            "title": "Booki",
+            "subtitle": "Travel Agency",
+            "text":  "This website lists different hotels, accommodations, or activities for the user. It allowed me to get a good grasp of HTML and CSS."
+          },
+          "github": "https://github.com/YanisMhl/Booki",
+          "skills": ["HTML", "CSS"]
+        }
+      ]
+    }
+  }
+}
